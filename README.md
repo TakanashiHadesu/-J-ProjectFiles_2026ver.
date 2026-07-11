@@ -1,5 +1,6 @@
 # -J-ProjectFiles_2026ver.
-Project files for my original song "J".
+- **Project files for my original song "J".**
+- **This repository contains only the project files. Third-party samples and commercial plugins are NOT included.**
 
 ## Original song by JiMoo
 - YouTube: [Google](https://www.youtube.com/@JiMooEN)
