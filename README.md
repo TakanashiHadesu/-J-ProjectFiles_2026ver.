@@ -1,6 +1,12 @@
-# -J-ProjectFiles_2026ver.
+# "J" Project Files 2026ver.
 - **Project files for my original song "J".**
-- **This repository contains only the project files. Third-party samples and commercial plugins are NOT included.**
+- **This repository contains the original FL Studio Mobile project (.flm)
+and Synthesizer V project (.svp).**
+- **Commercial samples and third-party audio files are NOT included.**
+- **The missing files are intentional and must be obtained separately.**
+- **The project may report missing audio files when opened.**
+- **Please replace the missing files with your own.**
+- **This repository is shared for learning, analysis, and archival purposes.**
 
 ## Original song by JiMoo
 - [YouTube](https://www.youtube.com/@JiMooEN) song [link](https://www.youtube.com/watch?v=41tJlw9RBhc)
@@ -16,4 +22,4 @@
 - Commercial plugins
 - Third-party libraries
 
-* Please replace the missing files with your own.
+
