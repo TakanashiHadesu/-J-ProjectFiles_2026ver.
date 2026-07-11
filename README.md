@@ -8,9 +8,8 @@
 - [Niconico](https://www.nicovideo.jp/user/139893248) song [link](https://www.nicovideo.jp/watch/sm46474719)
 
 ## Included
-- FL Studio Mobile project (.flm)
+- FL Studio Mobile project (.flm)  (For FL Studio users, please open this project file by FL Studio Mobile plugin)
 - Synthesizer V project (.svp)
-(For FL Studio users, please open this project file by FL Studio Mobile plugin)
 
 ## Not Included
 - Commercial samples
